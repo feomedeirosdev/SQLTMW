@@ -62,6 +62,40 @@ dist/
 # Arquivos específicos de Jupyter
 *.ipynb
 
+# --- Arquivos de imagem bitmap ---
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.tiff
+*.webp
+
+# --- Arquivos de imagem vetorial ---
+*.svg
+*.eps
+*.ai
+*.pdf   # Caso não queira versionar PDFs gerados de vetores
+
+# --- Executáveis ---
+*.exe
+*.bin
+*.out
+*.app
+*.msi
+*.deb
+*.rpm
+*.apk
+*.dmg
+*.iso
+*.sh
+
+# --- Outros arquivos temporários executáveis ---
+*.o
+*.so
+*.dll
+*.exe
+
 # Outros
 .DS_Store
 Thumbs.db
