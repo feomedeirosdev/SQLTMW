@@ -1,0 +1,67 @@
+# Bytecode do Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Ambientes virtuais
+.env
+.venv/
+env/
+venv/
+
+# Arquivos de configuração sensíveis
+*.env
+
+# Bancos de dados locais
+*.db
+*.sqlite3
+
+# Logs e caches
+*.log
+*.out
+*.tmp
+*.cache
+*.pid
+
+# Diretórios de cache de bibliotecas
+.pytest_cache/
+.ipynb_checkpoints/
+.mypy_cache/
+
+# Dados temporários ou exportações
+*.csv
+*.tsv
+*.parquet
+*.feather
+*.h5
+*.zip
+
+# Arquivos de pacotes Office e similares
+*.doc
+*.docx
+*.odt
+*.xls
+*.xlsx
+*.ods
+*.ppt
+*.pptx
+*.pdf
+
+# Arquivos gerados por IDEs/editores
+.vscode/
+.idea/
+*.swp
+*.bak
+*.~*
+
+# Arquivos de build
+build/
+dist/
+*.egg-info/
+
+# Arquivos específicos de Jupyter
+*.ipynb
+
+# Outros
+.DS_Store
+Thumbs.db
