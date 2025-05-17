@@ -32,5 +32,3 @@ tot_products_beleza_saude_menor_1litro = df_products[filter]['product_id'].count
 
 # %%
 print(f'Total de produdos (beleza e saúde) < 1 litro: {tot_products_beleza_saude_menor_1litro}')
-
-# %%
