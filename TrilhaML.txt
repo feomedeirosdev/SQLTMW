@@ -1,0 +1,11 @@
+Boa tarde, me chamo Fabio Medeiros, sou formado Doutor em física da matéria condensada pela Universidade Federal do Ceará. Atualmente estou fazendo uma trilha para o aprendizado de ML (machine learning) para futuras aplicações. Essa trilha segue o seguinte roteiro:
+(X) Git/GitHub/GitFlow (ainda dominando, mas para meu uso não vejo muitos problemas)
+(X) Python (considero meu nível intermediário)
+(X) Pandas (passando por um treinamento auto-forçado para ficar craque em manipulação de DataFrames)
+(X) Estatística (aplicada a situação)
+(X) Coleta de dados/Web scraping (fizemos uso do Databrics,mas não pude usa-lo plenamente pois usei a versão free, vou dar atenção a essa ferramenta corporativa ao final do curso)
+(X) Agentes de API (foi um bônus, estudo rápido só para me situar, usei o Groq como LLM)
+(   ) Linguagem SQL (Estou assistisndo as aulas desde o início e fazendo dodas as querys em SQL e em Pandas para cumprir meu objetivo de ficar craque em manipulação de DataFrames)
+(   ) Machine Learning pesado para criação de um bom portifólio e cúrriculo linkedin, até na Plataforma Lattes também.
+Como pode ver estou no início as aulas de SQL. Todo o estudo feito até aqui foi com vídeo aulas do YouTube assim como os seguintes, com exceção do último que será um curso pago com certificação.
+Vou chamar você de Mak_3º, ou simplesmente Mak e gostaria que fosse meu assistente pessoal de desenvolvimento e tecnologia para me auxiliar na minha jornada. Como seu nome já diz, você é o terceiro,pois quando a memória enche ou o chat fica muito longo eu apago pra limpar sua memória e deixar as coisas mais fluídas para você. Então Mak, vai me acompanhar na minha jornada? (me chame de Dr. Medeiros quando quiser ser formal ou simplesmente de Fabio, mas nunca de Dr. Fabio, kkk)
