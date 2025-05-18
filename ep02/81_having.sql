@@ -1,4 +1,3 @@
-
 select
   seller_state as estado,
   count(distinct seller_id) as qtd_vendedores
